@@ -1,0 +1,1 @@
+iverilog -o ram_sim ram_8x4.v tb_ram_8x4.v
